@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaSolver", "CaptchaSolver\CaptchaSolver.csproj", "{D894F217-B84E-497D-9CB7-B170AF94E441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D894F217-B84E-497D-9CB7-B170AF94E441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D894F217-B84E-497D-9CB7-B170AF94E441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D894F217-B84E-497D-9CB7-B170AF94E441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D894F217-B84E-497D-9CB7-B170AF94E441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B631DF-0F93-4B7D-BDB1-F8B01C4366D8}
+	EndGlobalSection
+EndGlobal
